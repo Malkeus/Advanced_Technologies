@@ -23,7 +23,6 @@
 	"aim_speed": 14,
     "recoil": 20,
     "durability": 8,
-    "burst": 0,
     "clip_size": 20,
     "reload": 950,
     "valid_mod_locations": [[ "accessories", 4 ],[ "grip", 1 ],[ "mechanism", 4 ],[ "rail", 1 ],[ "sights", 1 ],[ "stock", 1 ],[ "underbarrel", 1 ]]
@@ -52,7 +51,6 @@
 	"aim_speed": 8,
     "recoil": 9,
     "durability": 8,
-    "burst": 0,
     "clip_size": 12,
     "reload": 200,
     "valid_mod_locations": [[ "accessories", 4 ],[ "grip", 1 ],[ "mechanism", 4 ],[ "rail", 1 ],[ "sights", 1 ],[ "stock", 1 ],[ "underbarrel", 1 ]]

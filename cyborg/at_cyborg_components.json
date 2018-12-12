@@ -16,9 +16,7 @@
     "max_charges": 0,
     "initial_charges": 0,
     "charges_per_use": 0,
-    "turns_per_charge": 0,
-    "ammo": "NULL",
-    "revert_to": "null"
+    "turns_per_charge": 0
   },
   {
     "id": "cyborg_organ_heart",
@@ -37,9 +35,7 @@
     "max_charges": 0,
     "initial_charges": 0,
     "charges_per_use": 0,
-    "turns_per_charge": 0,
-    "ammo": "NULL",
-    "revert_to": "null"
+    "turns_per_charge": 0
   },
   {
     "id": "cyborg_organ_eye",
@@ -58,9 +54,7 @@
     "max_charges": 0,
     "initial_charges": 0,
     "charges_per_use": 0,
-    "turns_per_charge": 0,
-    "ammo": "NULL",
-    "revert_to": "null"
+    "turns_per_charge": 0
   },
   {
     "id": "cyborg_organ_lung",
@@ -79,9 +73,7 @@
     "max_charges": 0,
     "initial_charges": 0,
     "charges_per_use": 0,
-    "turns_per_charge": 0,
-    "ammo": "NULL",
-    "revert_to": "null"
+    "turns_per_charge": 0
   },
   {
     "id": "cyborg_organ_kidney",
@@ -100,9 +92,7 @@
     "max_charges": 0,
     "initial_charges": 0,
     "charges_per_use": 0,
-    "turns_per_charge": 0,
-    "ammo": "NULL",
-    "revert_to": "null"
+    "turns_per_charge": 0
   },
   {
     "id": "cyborg_chassis_light",
@@ -121,9 +111,7 @@
     "max_charges": 0,
     "initial_charges": 0,
     "charges_per_use": 0,
-    "turns_per_charge": 0,
-    "ammo": "NULL",
-    "revert_to": "null"
+    "turns_per_charge": 0
   },
   {
     "id": "cyborg_chassis_heavy",
@@ -142,8 +130,6 @@
     "max_charges": 0,
     "initial_charges": 0,
     "charges_per_use": 0,
-    "turns_per_charge": 0,
-    "ammo": "NULL",
-    "revert_to": "null"
+    "turns_per_charge": 0
   }
 ]

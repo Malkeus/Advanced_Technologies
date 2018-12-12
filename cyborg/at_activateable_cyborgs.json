@@ -17,9 +17,7 @@
     "initial_charges": 0,
     "charges_per_use": 0,
     "turns_per_charge": 0,
-    "ammo": "NULL",
-    "revert_to": "null",
-	"use_action": {
+    "use_action": {
         "type": "place_monster",
         "monster_id": "mon_cyborg",
         "difficulty": 4,
@@ -49,8 +47,6 @@
     "initial_charges": 0,
     "charges_per_use": 0,
     "turns_per_charge": 0,
-    "ammo": "NULL",
-    "revert_to": "null",
 	"use_action": {
         "type": "place_monster",
         "monster_id": "mon_cyborg_heavy",
@@ -81,8 +77,6 @@
     "initial_charges": 0,
     "charges_per_use": 0,
     "turns_per_charge": 0,
-    "ammo": "NULL",
-    "revert_to": "null",
 	"use_action": {
         "type": "place_monster",
         "monster_id": "mon_cyborg_advanced",
